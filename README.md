@@ -1,6 +1,6 @@
 # Projeto: Sistema de Controle de Vendas de Materiais de Construção
 
-##Descrição
+#Descrição
 
 &emsp; Este projeto implementa um sistema de controle de vendas para uma loja de materiais de construção, utilizando a linguagem C. O programa permite que o usuário registre as vendas de oito tipos diferentes de produtos, incluindo areia e cimento, com a opção de inserir o código do produto e a quantidade vendida.
 
