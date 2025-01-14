@@ -23,8 +23,9 @@
 - <locale.h>: Para configurar o idioma do programa para o português brasileiro.
 
 ### Estruturas e variáveis:
-&emsp; O código utiliza um vetor para armazenar os preços dos produtos e um array de strings para as descrições de cada item.
-&emsp; -Vários controles de vendas (como o valor total de cada produto vendido e a quantidade) são atualizados utilizando estruturas condicionais e de repetição (como if, switch, for).
+- O código utiliza um vetor para armazenar os preços dos produtos e um array de strings para as descrições de cada item.
+
+- Vários controles de vendas (como o valor total de cada produto vendido e a quantidade) são atualizados utilizando estruturas condicionais e de repetição (como if, switch, for).
 
 ## Como usar
 1. Compile e execute o código
