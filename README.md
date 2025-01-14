@@ -13,8 +13,7 @@
 - Além disso, o programa fornece o valor total das vendas do dia.
 
 ## Estrutura do Código
-
--Bibliotecas utilizadas:
+# Bibliotecas utilizadas:
 &emsp; -<stdio.h>: Para operações de entrada e saída de dados.
 &emsp; -<locale.h>: Para configurar o idioma do programa para o português brasileiro.
 
